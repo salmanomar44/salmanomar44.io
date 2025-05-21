@@ -66,4 +66,5 @@ GPA: 3.3 / 4.0
 ---
 
 📫 Reach me at: omarsalman078@gmail.com  
-🔗 [GitHub](https://github.com/salmanomar44) • [LinkedIn](https://linkedin.com/in/salman)
+🔗 [GitHub](https://github.com/salmanomar44) • [LinkedIn](https://www.linkedin.com/in/salman-noor-1218a223b/)
+
