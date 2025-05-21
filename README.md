@@ -1,6 +1,6 @@
-# Salman Noor
+# Computer Science 
 
-Computer Science Student @ University of St. Thomas  
+@ Student University of St. Thomas  
 Aspiring Software Engineer & Data Analyst  
 Passionate about solving real-world problems through data and technology.
 
